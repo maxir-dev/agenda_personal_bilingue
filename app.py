@@ -24,11 +24,11 @@ def guardar_historial(usuario, historial):
 
 st.markdown("""
     <h1 style='
-        color: #b66459;
+        color: #60c4d1;
         font-family: "Monserrat", sans-serif;
         text-align: center;
         padding-bottom: 10px;
-    '>Agenda Personal Bilingüe</h1>
+    '>AGENDA PERSONAL BILINGUE</h1>
 """, unsafe_allow_html=True)
 
 st.markdown("---")
